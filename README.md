@@ -20,7 +20,7 @@
 
 | 套餐  | 月流量 | 在线设备数 | 峰值速率 | 价格  | 购买  |
 | --- | --- | --- | --- | --- | --- |
-| 特价套餐 | 80 GB | 不限制本人设备数 | 1000M | 80元/年 | [注册订阅](https://jimmm.life/register?code=ZZ0Wxx2L) |
+| 特价套餐 | 80 GB | 不限制本人设备数 | 1000M | 100元/年 | [注册订阅](https://jimmm.life/register?code=ZZ0Wxx2L) |
 | 1号套餐 | 100 GB | 不限制本人设备数 | 1000M | 14元/月 | [注册订阅](https://jimmm.life/register?code=ZZ0Wxx2L) |
 | 2号套餐 | 200 GB | 不限制本人设备数 | 1000M | 16元/月 | [注册订阅](https://jimmm.life/register?code=ZZ0Wxx2L) |
 | 3号套餐 | 400 GB | 不限制本人设备数 | 1000M | 23元/月 | [注册订阅](https://jimmm.life/register?code=ZZ0Wxx2L) |
